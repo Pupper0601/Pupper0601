@@ -2,12 +2,12 @@
 
 <pre>
 吾志所向，一往无前。
-                              -- 一个想躺平的小开发
+                              -- 一个想躺平的小老头
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<img src="https://img.pupper.cn/img/1710229767.gif" width="260" align="right" alt="">
 
 |   主&emsp;页   | <https://fe-mm.com>                                      |
 | :------------: | :------------------------------------------------------- |
@@ -35,5 +35,5 @@
 
 **GitHub Stats:**
 
-![maomao's github stats](https://github-readme-stats.vercel.app/api?username=maomao1996&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1996&layout=compact)
+![maomao's github stats](https://github-readme-stats.vercel.app/api?username=Pupper0601&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupper0601&layout=compact)
