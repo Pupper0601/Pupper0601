@@ -5,13 +5,12 @@
                               -- 一个想躺平的小老头
 </pre>
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Pupper0601.Pupper0601" align="center" alt="visitors">
 
 <img src="https://img.pupper.cn/img/1710229767.gif" width="260" align="right" alt="">
 
-|   主&emsp;页   | <https://fe-mm.com>                                      |
+|   主&emsp;页   | <https://home.pupper.cn>                                      |
 | :------------: | :------------------------------------------------------- |
-| **主&emsp;页** | **<https://home.pupper.cn>**                            |
 | **博&emsp;客** | **<https://pupper.cn>**                            |
 | **笔&emsp;记** | **<https://note.pupper.cn>**          |
 |   **chat-gpt**   | **<https://chat-gpt.pupper.cn>**                    |
